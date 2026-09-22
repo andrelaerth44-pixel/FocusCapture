@@ -1,0 +1,6 @@
+{
+  "name": "FocusCapture",
+  "description": "Gravador de tela inteligente com detecção e recorte automático da região de vídeo para TikTok, YouTube, Instagram e mais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
